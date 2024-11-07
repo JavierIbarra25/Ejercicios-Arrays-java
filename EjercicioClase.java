@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Main {
-    public static void EjercicioClase(String[] args) {
+public class EjercicioClase {
+    public static void main(String[] args) {
         int contador = 0;
         int SumPositivos = 0;
         int SumNegativos = 0;
